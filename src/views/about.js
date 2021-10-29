@@ -5,10 +5,10 @@ export default class About extends Component {
 
   render(){
     return (
-      <div>
+      <React.Fragment>
         <h1> Aboot </h1>
         <p> Yep it's working </p>
-      </div>
+      </React.Fragment>
     )
   }
 
